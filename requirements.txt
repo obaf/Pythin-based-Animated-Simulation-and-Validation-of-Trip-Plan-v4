@@ -1,0 +1,8 @@
+pandas>=2.0
+openpyxl>=3.1
+requests>=2.31
+folium>=0.15
+
+# Optional: only required if you use ROUTING_BACKEND=osmnx or =auto
+osmnx>=2.0
+networkx>=3.0
